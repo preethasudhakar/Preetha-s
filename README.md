@@ -1,82 +1,96 @@
-# 👋 Hi, I'm Preetha Sudhakar
 
-🚀 **Java Full-Stack & MERN Stack Developer**  
-💻 Passionate about building scalable, secure, and user-friendly web applications  
-📍 India  
+⸻
 
----
+👋 Hi, I’m Preetha Sudhakar
 
-## 🧑‍💻 About Me
+Java Full-Stack Developer | Backend-Focused | JDBC & MySQL
 
-I am a dedicated **Full-Stack Developer** with strong hands-on experience in **Java Full-Stack Development** and the **MERN Stack**.  
-I enjoy solving real-world problems by creating efficient backend systems and modern responsive user interfaces.
+📍 India
+📧 Preethasudhakar98@gmail.com
+🔗 GitHub: https://github.com/preethasudhakar
+🔗 LinkedIn: https://www.linkedin.com/in/preetha-sudhakar-8a2519393/
 
----
+⸻
 
-## 🛠️ Tech Stack
+🧑‍💻 Professional Summary
 
-### Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Redux
-- Bootstrap, Tailwind CSS
+Java Full-Stack Developer with hands-on experience building database-driven applications using Java, JDBC, and MySQL. 
+Experienced in designing backend logic, implementing CRUD operations, handling validations, and maintaining data integrity for real-world business scenarios.
+Comfortable working across the full application flow—from database design to backend processing and basic frontend integration—while continuously strengthening skills in Spring Boot and modern web technologies.
 
-### Backend
-- Java, Spring Boot, Hibernate, JDBC
-- Node.js, Express.js
-- REST APIs, Microservices
+This summary is fact-based, focused, and believable. No fluff.
 
-### Database
-- MySQL, PostgreSQL
-- MongoDB
+⸻
 
-### Tools & Platforms
-- Git & GitHub
-- Maven, Postman
-- VS Code, Eclipse
-- Docker (basic), AWS (basic)
+🛠️ Technical Skills
 
-### Core Concepts
-- OOPS, Collections, Multithreading
-- Data Structures & Algorithms
-- MVC Architecture
-- SDLC & Agile
+Core Technologies
+	•	Java, JDBC, SQL
+	•	HTML5, CSS3, JavaScript (ES6)
 
----
+Backend & Architecture
+	•	JDBC-based application development
+	•	REST concepts (learning Spring Boot)
+	•	MVC architecture
+	•	Exception handling & validation logic
 
-## 📌 Projects
+Databases
+	•	MySQL
+	•	PostgreSQL (basic)
+	•	MongoDB (basic)
 
-### 🛒 E-Commerce Web Application
-**Tech:** React, Node.js, Express, MongoDB  
-- User authentication & authorization (JWT)
-- Product management, cart & checkout
-- Secure RESTful APIs
+Tools & Platforms
+	•	Git & GitHub
+	•	Maven, Postman
+	•	VS Code, Eclipse
+	•	Docker (basic exposure)
+	•	AWS (basic exposure)
 
-### 🧾 Employee Management System
-**Tech:** Java, Spring Boot, MySQL, React  
-- CRUD operations with REST APIs
-- Exception handling & validation
-- Responsive UI integration
+Fundamentals
+	•	OOPs, Collections, Multithreading
+	•	Data Structures & Algorithms
+	•	SDLC & Agile fundamentals
 
-### 🏦 Online Banking System
-**Tech:** Java, Spring Boot, Hibernate, MySQL  
-- Secure login & fund transfer
-- Transaction history module
-- Role-based access control
+⚠️ Notice: This avoids overclaiming while still sounding professional.
 
----
+⸻
 
-## 🎯 Career Objective
+📌 Projects
 
-To work as a **Full-Stack Developer** where I can apply my technical skills in Java and MERN stack to develop high-quality applications and grow as a software professional.
+Pharmacy Management System
 
----
+Technologies: Java, JDBC, MySQL
+	•	Developed a Java-based pharmacy management application to handle inventory, billing, and sales operations.
+	•	Implemented CRUD functionality for medicines, suppliers, and customers using JDBC.
+	•	Designed relational MySQL tables to track stock levels, expiry dates, pricing, and transactions.
+	•	Added business validations to prevent expired medicine sales and incorrect stock updates.
+	•	Applied structured exception handling to ensure reliable and stable execution.
 
-## 🤝 Connect With Me
+➡️ This project clearly shows backend thinking, not just coding.
 
-- GitHub: https://github.com/preethasudhakar  
-- LinkedIn: *(add your LinkedIn link here)*  
-- Email: *(add your email here)*
+⸻
 
----
+Online Catering Service & Food Delivery System
 
-⭐ *Thank you for visiting my profile. Feel free to explore my repositories and connect with me!*  
+Technologies: Java, JDBC, MySQL, HTML, CSS, JavaScript
+	•	Built a full-stack application for online food ordering and catering management.
+	•	Implemented user features for menu browsing, order placement, and order tracking.
+	•	Developed admin modules to manage menus, pricing, availability, and customer orders.
+	•	Designed normalized database schema for users, food items, orders, payments, and delivery status.
+	•	Integrated backend logic using Java and JDBC for order processing and data persistence.
+	•	Applied input validation and exception handling for secure and consistent operations.
+
+⸻
+
+🎯 Career Objective
+
+To secure a Java Full-Stack Developer role where I can contribute to backend development, database design, and business logic implementation, while continuing to grow in Spring Boot, scalable systems, and real-world application development.
+
+⸻
+
+🤝 Connect With Me
+	•	GitHub: https://github.com/preethasudhakar
+	•	LinkedIn: https://www.linkedin.com/in/preetha-sudhakar-8a2519393/
+	•	Email: Preethasudhakar98@gmail.com
+
+⸻
