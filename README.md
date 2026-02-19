@@ -1,16 +1,10 @@
 
-⸻
-
 👋 Hi, I’m Preetha Sudhakar
 
 Java Full-Stack Developer | Backend-Focused | JDBC & MySQL
 
 📍 India
-📧 Preethasudhakar98@gmail.com
-🔗 GitHub: https://github.com/preethasudhakar
-🔗 LinkedIn: https://www.linkedin.com/in/preetha-sudhakar-8a2519393/
-
-⸻
+ Chennai,Bengaluru
 
 🧑‍💻 Professional Summary
 
